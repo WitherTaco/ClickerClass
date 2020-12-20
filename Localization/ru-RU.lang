@@ -2,47 +2,47 @@
 
 # Buffs
 #######
-# BuffName.AutoClick=Auto Click
-# BuffDescription.AutoClick=Hold down the Left Mouse Button to auto click
+# BuffName.AutoClick=Авто клики
+# BuffDescription.AutoClick=Зажми Левую клавишу мыши для авто кликов
 
-# BuffName.CookieBuff=Cookie
-# BuffDescription.CookieBuff=Increases your click damage, radius, and life regeneration
+# BuffName.CookieBuff=Печенье
+# BuffDescription.CookieBuff=Увеличивает твой урон клика, радиус и регенерацию жизней
 
-# BuffName.Embrittle=Embrittle
-# BuffDescription.Embrittle=Clicks will deal 8 extra damage to this target
+# BuffName.Embrittle=Хрупкий
+# BuffDescription.Embrittle=Клики наносят на 8 единиц больше урона против цели
 
-# BuffName.Frozen=Frozen
-# BuffDescription.Frozen=Frozen in place
+# BuffName.Frozen=Заморожен
+# BuffDescription.Frozen=Заморожен на месте
 
-# BuffName.Gouge=Gouge
-# BuffDescription.Gouge=Rapidly losing life
+# BuffName.Gouge=Выдалбливание
+# BuffDescription.Gouge=Вы быстро теряете здоровье
 
-# BuffName.Haste=Haste
-# BuffDescription.Haste=Movement speed and jump speed increased
+# BuffName.Haste=Спешка
+# BuffDescription.Haste=Скорость передвижения и высота прыжка увеличины
 
-# BuffName.HoneySlow=Honey
-# BuffDescription.HoneySlow=Movement speed significantly reduced
+# BuffName.HoneySlow=В меду
+# BuffDescription.HoneySlow=Скорость передвижения существенно снижены
 
-# BuffName.InfluenceBuff=Influence
-# BuffDescription.InfluenceBuff={$Mods.ClickerClass.Common.Tooltips.IncreasesBaseClickRadius} by 20%
+# BuffName.InfluenceBuff=Влияние
+# BuffDescription.InfluenceBuff={$Mods.ClickerClass.Common.Tooltips.IncreasesBaseClickRadius} на 20%
 
-# BuffName.OverclockBuff=Overclock
-# BuffDescription.OverclockBuff=Every click will trigger a click effect
+# BuffName.OverclockBuff=Разгон
+# BuffDescription.OverclockBuff=Твои клики имеют эффект клика
 
 # Commons
 #######
-# Common.Tooltips.IncreasesClickDamage=Increases click damage
-# Common.Tooltips.IncreasedClickerDamage=increased clicker damage
-# Common.Tooltips.IncreasesClickCritChance=Increases click critical strike chance
-# Common.Tooltips.IncreasesBaseClickRadius=Increases your base click radius
-# Common.Tooltips.ReducesBaseClickRadius=Reduces your base click radius
-# Common.Tooltips.ReducesAmountOfClicks=Reduces the amount of clicks required for a click effect
-# Common.Tooltips.ClickingGloveEvery=While in combat, automatically clicks your current clicker every
-# Common.Tooltips.Clicker=Click on an enemy within range and sight to damage them
+# Common.Tooltips.IncreasesClickDamage=Увеличивает урон клика
+# Common.Tooltips.IncreasedClickerDamage=увеличивает урон кликера
+# Common.Tooltips.IncreasesClickCritChance=Увеличивает шанц крита клика
+# Common.Tooltips.IncreasesBaseClickRadius=Увеличивает твой радиус для клика
+# Common.Tooltips.ReducesBaseClickRadius=Уменьшает твой радиус для клика
+# Common.Tooltips.ReducesAmountOfClicks=Уменьшает колличество кликов до эффекта клика
+# Common.Tooltips.ClickingGloveEvery=Находясь в бою автоматически кликает ваш кликер каждые
+# Common.Tooltips.Clicker=Нажмите на врага в пределах досягаемости и прицела, чтобы нанести ему урон
 
-# Common.Tooltips.MoreThanOneClick={0} clicks
-# Common.Tooltips.OneClick=1 click
-# Common.Unknown=Unknown
+# Common.Tooltips.MoreThanOneClick={0} кликов
+# Common.Tooltips.OneClick=1 клик
+# Common.Unknown=Неизвестно
 
 
 # DO NOT TRANSLATE THIS ONE
